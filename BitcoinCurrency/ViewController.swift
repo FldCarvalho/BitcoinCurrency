@@ -9,9 +9,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let publicKey = "ZWVhMzIxYmIwMGQzNDNkZWI2MGYxZDU2MTNhNDgxOTQ"
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       
     }
 
 
